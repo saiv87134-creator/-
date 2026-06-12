@@ -1,0 +1,6 @@
+{
+  "name": "Globe Chronicle",
+  "description": "Premium news and insights portal with advanced SEO tools, cover image upload, and AdSense integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
